@@ -4,6 +4,6 @@ import { Injectable } from '@angular/core';
 export class CommomserviceService {
 
   constructor() {}
-  gettable_header = [ 'ID', 'Name', 'Country', 'City', 'Salary'];
+  gettable_header = [ 'ID', 'Name', 'Country', 'City new branch', 'Salary'];
 
 }

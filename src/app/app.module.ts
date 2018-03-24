@@ -49,4 +49,5 @@ import { UpgradeComponent } from './upgrade/upgrade.component';
   providers: [CommomserviceService],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+ }
